@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Avant",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-20T06:17:04.792130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Avant Gardener",
+      "artist": "Courtney Barnett",
+      "has_synced": true,
+      "path": "select/01_Avant_Gardener_Courtney_Barnett.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lie About Us (Feat. Avant)",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/02_Lie_About_Us_(Feat._Avant)_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cleveland Is The City (Ft. Avant)",
+      "artist": "Bone Thugs N Harmony",
+      "has_synced": false,
+      "path": "select/03_Cleveland_Is_The_City_(Ft._Avant)_Bone_Thugs_N_Harmony.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What We Do - Avant Hard Remix",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/04_What_We_Do_-_Avant_Hard_Remix_Devo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Avant Gardener - Live at Electric Lady Studios",
+      "artist": "Courtney Barnett",
+      "has_synced": true,
+      "path": "select/05_Avant_Gardener_-_Live_at_Electric_Lady_Studios_Courtney_Barnett.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Avant-après mars",
+      "artist": "Liaisons Dangereuses",
+      "has_synced": false,
+      "path": "select/06_Avant-après_mars_Liaisons_Dangereuses.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Avant nous",
+      "artist": "Edith Piaf",
+      "has_synced": true,
+      "path": "select/07_Avant_nous_Edith_Piaf.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Elle donne son corps avant son nom",
+      "artist": "IAM",
+      "has_synced": true,
+      "path": "select/08_Elle_donne_son_corps_avant_son_nom_IAM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Juste avant toi",
+      "artist": "Anggun",
+      "has_synced": true,
+      "path": "select/09_Juste_avant_toi_Anggun.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Juste Avant Toi (Bonus Track)",
+      "artist": "Anggun",
+      "has_synced": true,
+      "path": "select/10_Juste_Avant_Toi_(Bonus_Track)_Anggun.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Juste avant toi - Teetoff's Dance Radio Edit",
+      "artist": "Anggun",
+      "has_synced": false,
+      "path": "select/11_Juste_avant_toi_-_Teetoff's_Dance_Radio_Edit_Anggun.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "juste_avant_toi_teetoff_s_dance_radio_edit_",
+      "artist": "Anggun",
+      "has_synced": false,
+      "path": "select/12_juste_avant_toi_teetoff_s_dance_radio_edit_Anggun.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Avant Garde M.O.R.",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/13_Avant_Garde_M.O.R._Stereolab.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stickwitu (Avant Mix)",
+      "artist": "The Pussycat Dolls",
+      "has_synced": false,
+      "path": "select/14_Stickwitu_(Avant_Mix)_The_Pussycat_Dolls.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Avant de Partir",
+      "artist": "Eve Angeli",
+      "has_synced": false,
+      "path": "select/pl_01_Avant_de_Partir_Eve_Angeli.txt"
+    }
+  ]
+}
